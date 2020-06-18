@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f1f1f1;
+  }
+
+  .heading {
+      padding: 30px;
+      font-size: 40;
+      text-align: center;
+      background-color: #f1f1f1;
+      border: solid;
+ }
+
+ .column {
+   
+   padding: 20px;
+   font-size: 25;
+   border: solid;
+   display: table;
+   float: left;
+  width: 25%;
+
+
+
+
+}
